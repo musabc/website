@@ -1,5 +1,5 @@
 # Sample website
 
-## MCDXXIX
+## Website
 This is a sample website.
 
